@@ -32,7 +32,7 @@ a {
 }
 
 .basic-img:hover {
-    border: 1px solid tan;
+    border: 1px solid #d50;
     cursor: pointer;
 }
 
